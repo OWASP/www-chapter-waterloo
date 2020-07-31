@@ -8,6 +8,9 @@ level: 0
 region: Canada
 
 auto-migrated: 1
+meetup-group: OWASP-Waterloo-Chapter
+country: Canada
+postal-code: 
 
 ---
 
