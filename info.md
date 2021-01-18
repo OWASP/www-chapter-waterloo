@@ -1,6 +1,5 @@
-<!--### Chapter Information
-* Chapter Region
+### Chapter Information
 
 ### Social Links
-* [Meetup](#)
+* [Meetup](https://www.meetup.com/owasp-waterloo-meetup-group/)
 * [Social Link](#)-->
