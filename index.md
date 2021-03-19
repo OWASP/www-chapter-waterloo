@@ -18,8 +18,8 @@ Welcome to the Waterloo chapter homepage.
 Upcoming Sessions
 -----------------
 
-Date/Time: TBD
-Location: TBD
+Date/Time: April 22, 2021 <br>
+Location: TBD 
 
 **-----------**
 
