@@ -19,7 +19,7 @@ Upcoming Sessions
 -----------------
 <br>
 
-| Session # | Date / Time |  Title | 
+| # | Date |  Title | 
 | -------- | -------- | ----------- | 
 | 2021-01 | April 22, 2021 7:30 PM| A Journey Through the Kubernetes Threat Matrix - Part 1 | 
 | 2021-02 | May 27, 2021 7:30 PM| A Journey Through the Kubernetes Threat Matrix - Part 2 | 
@@ -31,7 +31,7 @@ Upcoming Sessions
 
 **Meetup 2021-01**
 
-Date/Time: April 22, 2021 <br>
+Date / Time: April 22, 2021 @ 7:30 PM <br>
 Location: TBD 
 
 **Welcome to OWASP Waterloo** 
@@ -55,7 +55,7 @@ Deepak Sharma
 
 **Meetup 2021-02**
 
-Date/Time: May 27, 2021 <br>
+Date / Time: May 27, 2021 @ 7:30 PM <br>
 Location: TBD 
 
 
