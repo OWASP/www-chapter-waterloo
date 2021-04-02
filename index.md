@@ -17,10 +17,6 @@ Welcome to the Waterloo chapter homepage.
 
 Upcoming Sessions
 -----------------
-| Session # | Date/Time | Location | Title | 
-| -------- | -------- | -------- | ----------- | 
-| 2021-01 | April 22, 2021 | TBD | A Journey Through the Kubernetes Threat Matrix - Part 1 | 
-| 2021-02 | May 27, 2021 | TBD | A Journey Through the Kubernetes Threat Matrix - Part 2 | 
 
 <br> 
 
