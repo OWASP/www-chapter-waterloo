@@ -19,10 +19,10 @@ Upcoming Sessions
 -----------------
 <br>
 
-| Session # | Date | Location | Title | 
-| -------- | -------- | -------- | ----------- | 
-| 2021-01 | April 22, 2021 | TBD | A Journey Through the Kubernetes Threat Matrix - Part 1 | 
-| 2021-02 | May 27, 2021 | TBD | A Journey Through the Kubernetes Threat Matrix - Part 2 | 
+| Session # | Date / Time |  Title | 
+| -------- | -------- | ----------- | 
+| 2021-01 | April 22, 2021 7:30 PM| A Journey Through the Kubernetes Threat Matrix - Part 1 | 
+| 2021-02 | May 27, 2021 7:30 PM| A Journey Through the Kubernetes Threat Matrix - Part 2 | 
 
 
 <br> 
