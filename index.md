@@ -4,7 +4,7 @@ title: OWASP Waterloo
 tags: waterloo
 level: 0
 region: North America
-meetup-group: OWASP-Waterloo
+meetup-group: owasp-waterloo-meetup-group
 country: Canada
 postal-code: 
 
@@ -13,9 +13,15 @@ postal-code:
 Welcome to the Waterloo chapter homepage.
 -----------------
 
-<br>
+### Upcoming Meetings
 
-Upcoming Sessions
+We schedule our meetings on the [OWASP Waterloo Meetup Group](https://www.meetup.com/owasp-waterloo-meetup-group/)
+
+{% include chapter_events.html group=page.meetup-group %}
+
+Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
+
+Past Sessions
 -----------------
 <br>
 
