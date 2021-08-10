@@ -15,14 +15,18 @@ Welcome to the Waterloo chapter homepage.
 
 <br>
 
+## Proudly celebrating OWASP's 20th Anniversary
+[![OWASP 20th Anniversary Image](assets/images/OWASP%2020th%20Anniversary.jpeg)](https://20thanniversary.owasp.org/)
+
+<br>
+
 Upcoming Sessions
 -----------------
 <br>
 
 | # | Date / Time |  Title | 
 | -------- | -------- | ----------- | 
-| 2021-01 | April 22, 2021 7:30 PM| A Journey Through the Kubernetes Threat Matrix - Part 1 | 
-| 2021-02 | June 24, 2021 7:30 PM| A Journey Through the Kubernetes Threat Matrix - Part 2 | 
+| 2021-03 | TBD | TBD | 
 
 
 <br> 
