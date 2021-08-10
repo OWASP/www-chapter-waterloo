@@ -21,23 +21,21 @@ We schedule our meetings on the [OWASP Waterloo Meetup Group](https://www.meetup
 
 Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
-<<<<<<< HEAD
+<br>
+
 ## Proudly celebrating OWASP's 20th Anniversary
 [![OWASP 20th Anniversary Image](assets/images/OWASP%2020th%20Anniversary.jpeg)](https://20thanniversary.owasp.org/)
 
 <br>
 
-Upcoming Sessions
-=======
 Past Sessions
->>>>>>> 8c621b2c03f5087ccf5d16d529e42bdb07a77b97
 -----------------
 <br>
 
 | # | Date / Time |  Title | 
 | -------- | -------- | ----------- | 
-| 2021-03 | TBD | TBD | 
-
+| 2021-01 | April 22, 2021 7:30 PM| A Journey Through the Kubernetes Threat Matrix - Part 1 | 
+| 2021-02 | June 24, 2021 7:30 PM| A Journey Through the Kubernetes Threat Matrix - Part 2 | 
 
 <br> 
 
