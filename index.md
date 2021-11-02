@@ -10,6 +10,10 @@ postal-code:
 
 ---
 
+[Waterloo Chapter Logo](assets/images/OWASP-waterloo-chapter.jpg)
+
+<br>
+
 Welcome to the Waterloo chapter homepage.
 -----------------
 
@@ -39,6 +43,8 @@ Connor McKinnon,
 Scott Handfield,
 Kris Jamieson
 
+<br> 
+**-----------**
 <br> 
 <br> 
 <br> 
