@@ -27,6 +27,7 @@ Our meetings are open to the public, and you do not need to be a member to atten
 
 **-----------**
 **Meetup 2021-03**
+
 Date / Time: Jun 24, 2021 @ 7:30 PM <br>
 Location: Virtual (Link provided in Meetup) 
 
@@ -38,6 +39,10 @@ Scott Handfield,
 Kris Jamieson
 
 <br> 
+<br> 
+
+### 2021 Past Events
+Please use the tabs for a list of all past events, links and reference materials 
 
 **-----------**
 **Meetup 2021-02**
@@ -57,6 +62,7 @@ Scott Handfield,
 Kris Jamieson,
 Deepak Sharma
 
+<br> 
 <br> 
 
 **-----------**
