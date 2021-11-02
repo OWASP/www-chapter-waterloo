@@ -23,19 +23,38 @@ Our meetings are open to the public, and you do not need to be a member to atten
 
 <br>
 
-## Proudly celebrating OWASP's 20th Anniversary
-[![OWASP 20th Anniversary Image](assets/images/OWASP%2020th%20Anniversary.jpeg)](https://20thanniversary.owasp.org/)
 
-<br>
+**-----------**
+**Meetup 2021-03**
+Date / Time: Jun 24, 2021 @ 7:30 PM <br>
+Location: Virtual (Link provided in Meetup) 
 
-Past Sessions
------------------
-<br>
+We are trilled to have a guest speaker and recent member join us, with an exciting presentation for our November meetup. Check back soon for an update. 
 
-| # | Date / Time |  Title | 
-| -------- | -------- | ----------- | 
-| 2021-01 | April 22, 2021 7:30 PM| A Journey Through the Kubernetes Threat Matrix - Part 1 | 
-| 2021-02 | June 24, 2021 7:30 PM| A Journey Through the Kubernetes Threat Matrix - Part 2 | 
+**Presenters:**
+Connor McKinnon,
+Scott Handfield,
+Kris Jamieson
+
+<br> 
+
+**-----------**
+**Meetup 2021-02**
+
+Date / Time: Jun 24, 2021 @ 7:30 PM <br>
+Location: Virtual (Link provided in Meetup) 
+
+
+**A Journey Through the Kubernetes Threat Matrix - Part 2**
+
+**Summary:**
+
+This presentation is a continuation from Part 1, where we switch focus to explore preventative and detective controls based on the Kubernetes Threat Matrix. We explore using OPA to create policies that prevent abuse of the Kubernetes CA, privileged pods, etc. As we journey through the Kubernetes threat matrix, we demonstrate how a defender might apply policy as code to identify and restrict vulnerable container and cluster misconfigurations. The focus of this talk is to explore best practices and guidance from the [OWASP Kubernetes Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Kubernetes_Security_Cheat_Sheet.html)
+
+**Presenters:**
+Scott Handfield,
+Kris Jamieson,
+Deepak Sharma
 
 <br> 
 
@@ -44,7 +63,7 @@ Past Sessions
 **Meetup 2021-01**
 
 Date / Time: April 22, 2021 @ 7:30 PM <br>
-Location: TBD 
+Location: Virtual (Link provided in Meetup) 
 
 **Welcome to OWASP Waterloo** 
 
@@ -65,26 +84,7 @@ Deepak Sharma
 
 **-----------**
 
-**Meetup 2021-02**
 
-Date / Time: Jun 24, 2021 @ 7:30 PM <br>
-Location: TBD 
-
-
-**A Journey Through the Kubernetes Threat Matrix - Part 2**
-
-**Summary:**
-
-This presentation is a continuation from Part 1, where we switch focus to explore preventative and detective controls based on the Kubernetes Threat Matrix. We explore using OPA to create policies that prevent abuse of the Kubernetes CA, privileged pods, etc. As we journey through the Kubernetes threat matrix, we demonstrate how a defender might apply policy as code to identify and restrict vulnerable container and cluster misconfigurations. The focus of this talk is to explore best practices and guidance from the [OWASP Kubernetes Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Kubernetes_Security_Cheat_Sheet.html)
-
-**Presenters:**
-Scott Handfield,
-Kris Jamieson,
-Deepak Sharma
-
-<br> 
-
-**-----------**
 
 ### Check our Upcoming Meetup Events:
 {% include chapter_events.html group=page.meetup-group %}
