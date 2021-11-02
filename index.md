@@ -48,6 +48,8 @@ Kris Jamieson
 <br> 
 Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 <br> 
+<br>
+<br> 
 
 ### Recent/Past Events
 Please use the tabs for all past events, links and reference materials 
