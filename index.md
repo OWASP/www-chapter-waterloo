@@ -10,7 +10,7 @@ postal-code:
 
 ---
 
-![Waterloo Chapter Logo](assets/images/OWASP-waterloo-chapter.jpg)
+![Waterloo Chapter Logo](assets/images/OWASP-waterloo-chapter.png)
 
 <br>
 
