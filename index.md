@@ -29,7 +29,7 @@ Our meetings are open to the public, and you do not need to be a member to atten
 
 **Meetup 2021-03**
 
-Date / Time: Jun 24, 2021 @ 7:30 PM <br>
+Date / Time: Nov 25, 2021 @ 7:30 PM <br>
 Location: Virtual (Link provided in Meetup) 
 
 We are trilled to have a guest speaker and recent member join us, with an exciting presentation for our November meetup. Check back soon for an update. 
@@ -41,9 +41,10 @@ Kris Jamieson
 
 <br> 
 <br> 
+<br> 
 
-### 2021 Past Events
-Please use the tabs for a list of all past events, links and reference materials 
+#### Recent Events
+Please use the tabs for all past events, links and reference materials 
 
 **-----------**
 
