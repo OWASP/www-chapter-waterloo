@@ -1,75 +1,87 @@
 ---
+
 layout: col-sidebar
 title: OWASP Waterloo
-tags: waterloo
-level: 0
+tags: example-tag
 region: North America
-meetup-group: owasp-waterloo-meetup-group
-country: Canada
-postal-code: 
+meetup-group:
 
 ---
 
-![Waterloo Chapter Logo](assets/images/OWASP-waterloo-chapter.png)
+<div style='color:red;'>
 
-<br>
+This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
 
-Welcome to the Waterloo chapter homepage.
------------------
+<ul>
+<li>layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar</li>
 
-### Meetings
+<li>title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore</li>
 
-We schedule our meetings on the [OWASP Waterloo Meetup Group](https://www.meetup.com/owasp-waterloo-meetup-group/)
+<li>tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) </li>
 
-### Check our Upcoming Meetup Events:
+<li>region: This is the region you are in according to our data</li>
+
+<li>meetup-group: This is the name of your meetup group, usually in the form of OWASP-chapter.  By putting these details here, the section below labeled 'Next Meeting/Event' will get automatically populated with your upcoming meetup events.</li>
+</ul>
+
+</div>
+
+## Welcome
+Include some information here about your chapter
+
+## Participation
+The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+
+Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
+
+Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
+
+Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
+---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
+<!-- You should delete this comment
 
-<br>
+Standard Chapter Page Template
+This is an example of a Project or Chapter page.
+Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
 
+{front matter for this file}
 
-**-----------**
+```
+- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
+- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
+- region: This is the region you are in according to our data
+```
 
-**Meetup 2021-03**
-*NOTE: New date for meetup*
+{copy for this file (index.md)}
+Replace the text above the commented area with your information in the format below:
+```
+## Welcome
+Include some information here about your chapter
 
-Date / Time: Dec 2, 2021 @ 7:30 PM  <br>
-Location: Virtual (Link provided in Meetup) 
+## Participation
+The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
-We are trilled to have a guest speaker and recent member join us in a look back at lessons learned running a security champions program.  
+Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
 
-Almost a year ago Connor delivered a talk on what it took to create a security champions program from scratch. Now he is here to share what he has learned over the last year and answer outstanding questions. If you haven’t yet seen the original talk you should give it a once over, you can find it here [OWASP Toronto - November 2020 Double Talk Event - Security Champions and Intro to Threat Modeling.](https://www.youtube.com/watch?v=0fnEy1q0TZ0)
+Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
 
-In this presentation we are going to quickly recap how to establish a program before diving right into how to improve your training, boost retention, and measure success. At the end of this discussion everyone should have a better understanding of how to better lead and measure a security champions program.
+## Next Meeting/Event
+---------------------
+{% comment %}
+{% include chapter_events.html group=page.meetup-group %}
+{% endcomment %}
 
-<br>
-SPEAKER BIO
+```
+{info.md}
 
-My name is Connor McKinnon, and I am the Engineering Manager for Platform Security at Wealthsimple. In my role, I have been very fortunate to have helped grow our organization by 10x in just the last 2 years, and I am looking forward to continuing to grow our amazing teams. 
+This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
 
-My team is made up of software engineers using code to solve security problems. I have often described us as “boots on the ground” for the security organization. If there is a problem that needs solving and off the shelf components won’t cut it, we are the team that gets tasked with finding a solution.
+{leaders.md}
 
-In my last role as Team Lead for the Application Security Team at Wealthsimple, I had the privilege of creating our wildly successful Security Champions program which continues to run to this day. Currently, I am working on developing solutions for a distributed authorization layer that makes security easy and improves the developer experience.
+Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
 
-In my spare time I am an avid reader. Recently, I challenged myself to see how many books I could read in just two months and am pleased to report I tapped out at 17. I am always looking for suggestions as well! Please feel free to DM me your favorites :D
+-->
 
-If you ever want to connect feel free to add me on LinkedIn (https://www.linkedin.com/in/connor-mckinnon/) or setting a meeting with me through Calendly (https://calendly.com/connormck/15min)
-
-
-<br>
-**Presenters:**
-Connor McKinnon,
-Scott Handfield,
-Kris Jamieson
-
-<br> 
-**-----------**
-<br> 
-<br> 
-Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
-<br> 
-<br>
-<br> 
-
-### Recent/Past Events
-Please use the tabs for all past events, links and reference materials 
