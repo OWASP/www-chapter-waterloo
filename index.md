@@ -15,7 +15,7 @@ Next Meeting/Event
 ## Welcome
 Welcome to the OWASP Waterloo Chapter home page!
 
-The Waterloo Chapter has been active & rebooted in January 2023. 
+The Waterloo Chapter has is active & rebooted in January 2023. 
 
 Your chapter leaders are [Vinod Tiwari](https://twitter.com/securient), and [Ajit Sharma](https://twitter.com/)
 
