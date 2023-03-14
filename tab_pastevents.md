@@ -14,7 +14,7 @@ tags: ykf
 
 | # | Date / Time |  Title | 
 | -------- | -------- | ----------- | 
-|  | |  | 
+| 1 | March 3, 2023 10:30 AM EST | [An Invalid JWT Test Case](https://www.meetup.com/owasp-waterloo-meetup-group/events/291912145/) | 
 |  | |  | 
 
 
