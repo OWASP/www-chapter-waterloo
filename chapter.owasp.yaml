@@ -1,0 +1,25 @@
+leaders:
+  - name: Vinod Tiwari
+    email: vinod.tiwari@owasp.org
+    github: securient
+  - name: Ajit Sharma
+    email: ajit.sharma@owasp.org
+    github: SudoSharma
+location:
+  country: Canada
+  country_code: CA
+  region: Ontario
+  city: Waterloo
+  latitude: 43.4652699
+  longitude: -80.5222961
+meetup_group: owasp-waterloo-meetup-group
+name: OWASP Waterloo
+repositories:
+  - name: www-chapter-waterloo
+    url: https://github.com/OWASP/www-chapter-waterloo
+    description: OWASP Foundation Web Repository
+tags:
+  - ykf
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-waterloo
